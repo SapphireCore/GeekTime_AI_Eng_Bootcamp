@@ -7,7 +7,7 @@
 
 运行前：
   export OPENAI_API_KEY=<your_api_key_here>
-  python werewolf_langgraph_demo.py
+  python main.py
 """
 
 from __future__ import annotations
